@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zidan Maulana</h1>
 <h3 align="center">still learning</h3>
-<img align="right" alt="coding" widht="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
+<img align="right" alt="coding" widht="100" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanzidun&label=Profile%20views&color=0e75b6&style=flat" alt="zidanzidun" /> </p>
 
