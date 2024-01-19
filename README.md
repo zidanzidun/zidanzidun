@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zidan Maulana</h1>
-<h3 align="center">still learning</h3>
 
 - 📝 I regularly write articles on [https://zidankuat.blogspot.com/](https://zidankuat.blogspot.com/)
 
